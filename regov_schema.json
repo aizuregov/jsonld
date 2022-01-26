@@ -1,0 +1,6 @@
+{
+  "@context": {
+    "referenceNumber": "string",
+    "favoriteFood": "string"
+  }
+}
