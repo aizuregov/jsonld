@@ -1,0 +1,25 @@
+{
+  "@context":  {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "description": "http://schema.org/description",
+        "identifier": "http://schema.org/identifier",
+        "name": "http://schema.org/name",
+        "image": "http://schema.org/image",
+        "RegovCertificate": {
+            "@id": "@id",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "id": "@id",
+                "type": "@type",
+                "description": "http://schema.org/description",
+                "identifier": "http://schema.org/identifier",
+                "name": "http://schema.org/name",
+                "image": "http://schema.org/image",
+                "taxID" : "https://schema.org/Organization"
+            }
+        }
+}
